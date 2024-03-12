@@ -1,9 +1,11 @@
 # Gerard Fabregó - Software engineer
 
-|Languages|Contact info|
-| :- | :-: |
-| **Spanish:** Native<br>**Catalan:** Native<br>**English:** C1  | :round_pushpin: Barcelona, Spain<br> :iphone: (+34) 699 434 123<br> :email: gerardfabrego@gmail.com  |
-
+<table align="center">
+  <tr>
+    <td><b>Spanish:</b> Native<br><b>Catalan:</b> Native<br><b>English:</b> C1 </td>
+    <td>:round_pushpin: Barcelona, Spain<br>:iphone: (+34) 699 434 123<br>:email: <a href="mailto:gerardfabrego@gmail.com">gerardfabrego@gmail.com</a></td>
+  </tr>
+</table>
 
 ## ABOUT ME
 
@@ -56,8 +58,8 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 ## TECHNICAL SKILLS
 
 **Languages, frameworks & libraries**
-- Java & Kotlin, Spring Boot, JUnit
-- Typescript & Javascript, React, React Testing Library, Jest
+- Java, Kotlin, Spring Boot, JUnit
+- Typescript, Javascript, React, React Testing Library, Jest
 - Html, CSS
 - Python, Numpy, Pandas, PyTest
 
