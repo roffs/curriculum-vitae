@@ -36,9 +36,15 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
     Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-techincal people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessability.
 
+    Built a SPA tool that allowed users to customize the design of their certification label and then export said label in multiple supported formats. 
+
     *Technologies: Typescript, React, Material UI, React Testing Library, Jest, AWS S3, AWS CloudFront, Playwright, Storyblok, Datadog, Matomo, Github Actions, MS Dynamics, Terraform.*
 
 - #### Digital marketplace
+
+    Helped decoupling the backoffice from the monolith into a microservice. Added JWT authentication to enable the new microservice connect with the rest of the ecosystem. 
+
+    Implemented a feature that used AI generated suggestions to help users write the description of their advertisements in an inclusive and unbiased way. 
 
     *Technologies: Javascript, React, SUI components, Mocha, Chai, Sinon, Cypress*
 
