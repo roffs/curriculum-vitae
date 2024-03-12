@@ -2,7 +2,7 @@
 
 |Languages|Contact info|
 | :- | :-: |
-| **Spanish:** Native<br>**Catalan:** Native<br>**English:** C1  | Barcelona, Spain<br>(+34) 699 434 123<br>gerardfabrego@gmail.com  |
+| **Spanish:** Native<br>**Catalan:** Native<br>**English:** C1  | :round_pushpin: Barcelona, Spain<br> :iphone: (+34) 699 434 123<br> :email: gerardfabrego@gmail.com  |
 
 
 ## ABOUT ME
