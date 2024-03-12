@@ -1,13 +1,8 @@
-# Gerard Fabregó 
-## Software engineer
+# Gerard Fabregó - Software engineer
 
-**Spanish:** Native<br>
-**Catalan:** Native<br>
-**English:** C1
-
-Barcelona, Spain<br>
-(+34) 699 434 123<br>
-gerardfabrego@gmail.com
+|Languages|Contact info|
+| :- | :-: |
+| **Spanish:** Native<br>**Catalan:** Native<br>**English:** C1  | Barcelona, Spain<br>(+34) 699 434 123<br>gerardfabrego@gmail.com  |
 
 
 ## ABOUT ME
