@@ -44,8 +44,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 ## EDUCATION
 
-**Bachelor’s degree in Industrial Technologies Engineering**<br>
-Barcelona School of Industrial Engineering (ETSEIB), UPC<br>
+**Bachelor’s degree in Industrial Technologies Engineering** - Barcelona School of Industrial Engineering (ETSEIB), UPC<br>
 *Honors in IT 1*
 
 ## TECHNICAL SKILLS
