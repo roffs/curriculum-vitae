@@ -7,7 +7,7 @@
 
 ## ABOUT ME
 
-I'm a software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. Right now, I'm really into graphics programming and the rust programming language.
+I'm a full-stack software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. Right now, I'm really into graphics programming and the rust programming language.
 
 Beyond my technical interests, I see myself as someone who's easy to approach and aims to create an  atmosphere where everyone feels safe and comfortable. I believe in teamwork and enjoy collaborating with people from different backgrounds to learn and create together.
 
@@ -56,8 +56,8 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 ## TECHNICAL SKILLS
 
 **Languages, frameworks & libraries**
-- Java, Kotlin, Spring Boot, JUnit
-- Typescript, Javascript, React, React Testing Library, Jest
+- Java & Kotlin, Spring Boot, JUnit
+- Typescript & Javascript, React, React Testing Library, Jest
 - Html, CSS
 - Python, Numpy, Pandas, PyTest
 
