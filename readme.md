@@ -2,8 +2,16 @@
 
 <table align="center">
   <tr>
-    <td><b>Spanish:</b> Native<br><b>Catalan:</b> Native<br><b>English:</b> C1 </td>
-    <td>:round_pushpin: Barcelona, Spain<br>:iphone: (+34) 699 434 123<br>:email: gerardfabrego@gmail.com</td>
+    <td>
+      <b>Spanish:</b> Native<br>
+      <b>Catalan:</b> Native<br>
+      <b>English:</b> C1 
+    </td>
+    <td>
+      :round_pushpin: Barcelona, Spain<br>
+      :iphone: (+34) 699 434 123<br>
+      :email: gerardfabrego@gmail.com
+    </td>
   </tr>
 </table>
 
