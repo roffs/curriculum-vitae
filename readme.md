@@ -3,13 +3,13 @@
 <table align="center">
   <tr>
     <td><b>Spanish:</b> Native<br><b>Catalan:</b> Native<br><b>English:</b> C1 </td>
-    <td>:round_pushpin: Barcelona, Spain<br>:iphone: (+34) 699 434 123<br>:email: <a href="mailto:gerardfabrego@gmail.com">gerardfabrego@gmail.com</a></td>
+    <td>:round_pushpin: Barcelona, Spain<br>:iphone: (+34) 699 434 123<br>:email: gerardfabrego@gmail.com</td>
   </tr>
 </table>
 
 ## ABOUT ME
 
-I'm a full-stack software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. I'm also keen on using and learning about the best practices to create robust high-quality software.
+I'm a full-stack software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, baoth on the surface and behind the scenes. I'm also keen on using and learning about the best practices to create robust high-quality software.
 
 Beyond my technical interests, I see myself as someone who's easy to approach and aims to create an  environment where everyone feels safe and comfortable. I believe in teamwork and enjoy collaborating with people from different backgrounds to learn and create together.
 
