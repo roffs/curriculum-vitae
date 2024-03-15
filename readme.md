@@ -9,7 +9,7 @@
 
 ## ABOUT ME
 
-I'm a full-stack software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. I'm also keen on using and learning about the best practices to create high-quality software.
+I'm a full-stack software engineer, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. I'm also keen on using and learning about the best practices to create robust high-quality software.
 
 Beyond my technical interests, I see myself as someone who's easy to approach and aims to create an  environment where everyone feels safe and comfortable. I believe in teamwork and enjoy collaborating with people from different backgrounds to learn and create together.
 
@@ -58,18 +58,23 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 ## TECHNICAL SKILLS
 
 **Languages, frameworks & libraries**
-- Java, Kotlin, Spring Boot, JUnit
+- Java, Spring Boot, JUnit
 - Typescript, Javascript, React, React Testing Library, Jest
-- Html, CSS
-- Python, Numpy, Pandas, PyTest
+- Html5, CSS3
 
 **Other technologies**
 - Docker
 - PostgreSQL
 - MongoDB
 
-**Practices**
-- Test Driven Development (TDD)
-- Trunk Based Development (TBD)
-- Continuous Integration & Continuous Delivery (CI/CD)
+**Tools I've used non-professionally**
+- Rust
+- C++
+- OpenGL & webGL
+- Python, Numpy, Pandas
+
+**Development practices I'm familiar with'**
+- Test Driven Development
+- Trunk Based Development 
+- CI/CD
 - Agile & no-estimates  
