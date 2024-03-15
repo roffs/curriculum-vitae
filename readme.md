@@ -73,7 +73,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 - OpenGL & webGL
 - Python, Numpy, Pandas
 
-**Development practices I'm familiar with'**
+**Development practices I'm familiar with**
 - Test Driven Development
 - Trunk Based Development 
 - CI/CD
