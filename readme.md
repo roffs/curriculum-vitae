@@ -17,7 +17,7 @@ Beyond my technical interests, I see myself as someone who's easy to approach an
 
 ### THOUGHTWORKS March 2020 - August 2023
 
-Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goal were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, CI/CD, pair programming and a feedback culture.
+Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goals were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, CI/CD, pair programming and a feedback culture.
 
 - #### German  online retailer & e-commerce 
 
@@ -27,8 +27,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
     Implemented a loyalty program for users creating new functionalities and expanding to new markets in Europe. 
 
-
-    Contributed to a solution that allowed fraud screeners to easily find and browse all information needed to identify and mark fraudulent orders.
+    Contributed to a solution that allowed fraud screeners to easily find and browse all the information needed to identify and mark fraudulent orders.
 
     Created a small application in React to allow administrators to configure payment methods per country and serve this through an API.
 
@@ -36,7 +35,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 - #### German sustainability consultancy 
 
-    Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-techincal people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessability.
+    Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-technical people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessability.
 
     Built a SPA tool that allowed users to customize the design of their certification label and then export said label in multiple supported formats. 
 
@@ -44,7 +43,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 - #### Digital marketplace
 
-    Helped decoupling the backoffice from the monolith into a microservice. Added JWT authentication to enable the new microservice connect with the rest of the ecosystem. 
+    Helped decoupling the backoffice from the monolith into a microservice. Added JWT authentication to enable the new microservice to connect with the rest of the ecosystem. 
 
     Implemented a feature that used AI generated suggestions to help users write the description of their advertisements in an inclusive and unbiased way. 
 
