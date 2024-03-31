@@ -43,7 +43,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 - #### German sustainability consultancy 
 
-    Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-technical people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessability.
+    Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-technical people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessibility.
 
     Built a SPA tool that allowed users to customize the design of their certification label and then export said label in multiple supported formats. 
 
@@ -74,7 +74,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 - PostgreSQL
 - MongoDB
 
-**I also have some hands-on experience on**
+**I also have some hands-on experience with**
 - Rust
 - C++
 - OpenGl, WebGl and WebGpu
