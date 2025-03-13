@@ -73,7 +73,7 @@ After a gap year I resumed my career in Thoughtworks where I'm still currently w
 ## TECHNICAL SKILLS
 
 **Languages, frameworks & libraries**
-- Java, Spring Boot, JUnit
+- Java, Kotlin, Spring Boot, JUnit
 - Typescript, Javascript, React, React Testing Library, Jest
 - Html5, CSS3
 
