@@ -57,10 +57,18 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
     *Technologies: Javascript, React, SUI components, Mocha, Chai, Sinon, Cypress*
 
+### THOUGHTWORKS January 2025 - Now
+After a gap year I resumed my career in Thoughtworks where I'm still currently working. 
+- #### Payments platform for an airline
+    Designed and implemented the full flow a service that would allow other teams to easily integrate payments at their end. 
+
 ## EDUCATION
 
 **Bachelor’s degree in Industrial Technologies Engineering** - Barcelona School of Industrial Engineering (ETSEIB), UPC<br>
 *Honors in IT 1*
+
+**Master in Innovation and Research in Informatics:  Computer Graphics and Virtual Reality** -  Barcelona School of Informatics (FIB), UPC.<br>
+*Ongoing, expected to graduate in June 2026.*
 
 ## TECHNICAL SKILLS
 
