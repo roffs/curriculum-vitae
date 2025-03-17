@@ -27,7 +27,7 @@ Beyond my technical interests, I see myself as someone who's easy to approach an
 
 Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goals were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, CI/CD, pair programming and a feedback culture.
 
-- #### German  online retailer & e-commerce 
+- **German  online retailer & e-commerce**
 
     Participated in several projects mainly migrating some legacy monolith systems to new microservices that handled millions of orders per day. These microservices involved REST API design, consuming and publishing from/to event streams, handling asynchronous processes and writing to distributed databases.
 
@@ -41,7 +41,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
     *Technologies: Java, Kotlin, JUnit5, Lombok, PostgreSQL, Spring Boot, AWS, Kubernetes, Docker, Typescript, React, React Testing Library, Jest.*
 
-- #### German sustainability consultancy 
+- **German sustainability consultancy**
 
     Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-technical people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessibility.
 
@@ -49,7 +49,7 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
     *Technologies: Typescript, React, Material UI, React Testing Library, Jest, AWS S3, AWS CloudFront, Playwright, Storyblok, Datadog, Matomo, Github Actions, MS Dynamics, Terraform.*
 
-- #### Digital marketplace
+- **Digital marketplace**
 
     Helped decoupling the backoffice from the monolith into a microservice. Added JWT authentication to enable the new microservice to connect with the rest of the ecosystem. 
 
@@ -59,8 +59,11 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 ### THOUGHTWORKS January 2025 - Now
 After a gap year I resumed my career in Thoughtworks where I'm still currently working. 
-- #### Payments platform for an airline
+- **Payments platform for an airline**
+
     Designed and implemented the full flow a service that would allow other teams to easily integrate payments at their end. 
+
+    *Techonolgies: Typescript, React, Kotlin, Spring Boot*
 
 ## EDUCATION
 
