@@ -25,7 +25,7 @@ Beyond my technical interests, I see myself as someone who's easy to approach an
 
 ### THOUGHTWORKS March 2020 - August 2023
 
-Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goals were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, CI/CD, pair programming and a feedback culture.
+Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goals were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, trunk-based development, CI/CD, pair programming and a feedback culture.
 
 - **German  online retailer & e-commerce**
 
@@ -59,11 +59,11 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 
 ### THOUGHTWORKS January 2025 - Now
 After a gap year I resumed my career in Thoughtworks where I'm still currently working. 
-- **Payments platform for an airline**
+- **Airline Payments platform**
 
-    Designed and implemented the full flow a service that would allow other teams to easily integrate payments at their end. 
+    Worked as a Senior Consultant building a payment orchestration system within a new booking platform. Contributed to developing a comprehensive payment solution including 3DS authentication, authorisation and capture, refund functionality and bonus miles integration. The system integrates with PCI Proxy and Cybersource, implements special handling for different card types, and includes barrier-free UI components. 
 
-    *Techonolgies: Typescript, React, Kotlin, Spring Boot*
+    *Techonolgies: Typescript, React, Kotlin, Spring Boot, AWS (ECS, S3, Lambda, AuroraDB), Terraform, Kong API Gateway, Datadog, GitHub Actions, Pact.io*
 
 ## EDUCATION
 
@@ -71,13 +71,13 @@ After a gap year I resumed my career in Thoughtworks where I'm still currently w
 *Honors in IT 1*
 
 **Master in Innovation and Research in Informatics:  Computer Graphics and Virtual Reality** -  Barcelona School of Informatics (FIB), UPC.<br>
-*Ongoing, expected to graduate in June 2026.*
+*Ongoing*
 
 ## TECHNICAL SKILLS
 
 **Languages, frameworks & libraries**
 - Java, Kotlin, Spring Boot, JUnit
-- Typescript, Javascript, React, React Testing Library, Jest
+- Typescript, Javascript, React, React Testing Library, Vite+vitest, Jest
 - Html5, CSS3
 
 **Other technologies**
@@ -85,14 +85,8 @@ After a gap year I resumed my career in Thoughtworks where I'm still currently w
 - PostgreSQL
 - MongoDB
 
-**I also have some hands-on experience with**
+**I also have non-professional hands-on experience with**
 - Rust
 - C++
 - OpenGl, WebGl and WebGpu
 - Python, Numpy, Pandas
-
-**Development practices I'm familiar with**
-- Test Driven Development
-- Trunk Based Development 
-- CI/CD
-- Agile & no-estimates  
