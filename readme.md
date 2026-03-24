@@ -61,7 +61,9 @@ Worked as a full-stack software engineer consultant across multiple projects wit
 After a gap year I resumed my career in Thoughtworks where I'm still currently working. 
 - **Airline Payments platform**
 
-    Worked as a Senior Consultant building a payment orchestration system within a new booking platform. Contributed to developing a comprehensive payment solution including 3DS authentication, authorisation and capture, refund functionality and bonus miles integration. The system integrates with PCI Proxy and Cybersource, implements special handling for different card types, and includes barrier-free UI components. 
+    Worked as a Senior Consultant building a high-scale payment orchestration system within a new booking platform for a major airline. Contributed to a comprehensive payment solution covering the full transaction lifecycle, including 3DS authentication, authorisation, capture, refund and reconciliation functionalities.
+
+    Implemented multi-currency transactions, enabling combined payments using credit/debit cards and loyalty currency, and supported integration with third-party payment methods such as Apple Pay. The system integrates with PCI Proxy and Cybersource, leveraging a cloud-native architecture to ensure secure and reliable global transactions.
 
     *Techonolgies: Typescript, React, Kotlin, Spring Boot, AWS (ECS, S3, Lambda, AuroraDB), Terraform, Kong API Gateway, Datadog, GitHub Actions, Pact.io*
 
