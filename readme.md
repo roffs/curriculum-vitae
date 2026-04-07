@@ -1,11 +1,10 @@
 # Gerard Fabregó
+### Senior Full-Stack Software Engineer
 
-**Senior Full-Stack Software Engineer**
+- 📍 Barcelona, Spain | 📱 (+34) 699 434 123 | ✉️ gerardfabrego@gmail.com 
 
-📍 Barcelona, Spain | 📱 (+34) 699 434 123 | ✉️ gerardfabrego@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gerardfabreg%C3%B3/)
+- **Languages:** Spanish (Native), Catalan (Native), English (C1)
 
-**Languages:** Spanish (Native), Catalan (Native), English (C1)
 ---
 
 ## ABOUT ME
