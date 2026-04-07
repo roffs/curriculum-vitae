@@ -1,94 +1,69 @@
-# Gerard Fabregó - Software engineer
+# Gerard Fabregó
 
-<table align="center">
-  <tr>
-    <td>
-      <b>Spanish:</b> Native<br>
-      <b>Catalan:</b> Native<br>
-      <b>English:</b> C1 
-    </td>
-    <td>
-      :round_pushpin: Barcelona, Spain<br>
-      :iphone: (+34) 699 434 123<br>
-      :email: gerardfabrego@gmail.com
-    </td>
-  </tr>
-</table>
+**Senior Full-Stack Software Engineer**
+
+📍 Barcelona, Spain | 📱 (+34) 699 434 123 | ✉️ gerardfabrego@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gerardfabreg%C3%B3/)
+
+**Languages:** Spanish (Native), Catalan (Native), English (C1)
+---
 
 ## ABOUT ME
+I am a Senior Software Engineer with over 5 years of experience building scalable distributed systems and migrating legacy architectures to microservices. My background as a consultant at Thoughtworks has shaped me into a developer who deeply values technical excellence—specializing in **TDD, Clean Code, and CI/CD** to deliver robust software.
 
-I'm a software engineer and computer graphics enthusiast, passionate about software development and always eager to learn new stuff. I love figuring out how things work, both on the surface and behind the scenes. I'm also keen on using and learning about the best practices to create robust high-quality software.
+Beyond core development, I am a computer graphics enthusiast and a "force multiplier" within my teams. I actively leverage **AI-assisted development tools** to accelerate coding, refactoring, and testing, which allows me to dedicate more time to high-level architecture and solving complex problems. I thrive in collaborative, multicultural environments where I can mentor others and build high-quality solutions that drive real business value.
 
-Beyond my technical interests, I see myself as someone who's easy to approach and aims to create an environment where everyone feels safe and comfortable. I believe in teamwork and enjoy collaborating with people from different backgrounds to learn and create together.
+---
 
 ## EXPERIENCE
 
-### THOUGHTWORKS March 2020 - August 2023
+### THOUGHTWORKS | January 2025 – Present
+**Senior Software Engineer Consultant**
 
-Worked as a full-stack software engineer consultant across multiple projects with three different clients, where the goals were not only to implement and deliver solutions, but also help the client adapt some best practices on their ways of working such as agile methodologies, test driven development, trunk-based development, CI/CD, pair programming and a feedback culture.
+**Airline Payments Platform**
+* Building a high-scale PCI-compliant payment orchestration system within a new booking platform for a major airline.
+* Contributed to a comprehensive solution covering the full transaction lifecycle: 3DS authentication, authorization, capture, refund, and reconciliation.
+* **Key Achievement:** Implemented multi-currency transactions, enabling combined payments using credit/debit cards and loyalty currency (bonus miles).
+* Integrated third-party methods such as **Apple Pay** via Cybersource.
+* *Technologies: Typescript, React, Kotlin, Spring Boot, AWS (ECS, S3, Lambda, AuroraDB), Terraform, Kong API Gateway, Datadog, GitHub Actions, Pact.io*
 
-- **German  online retailer & e-commerce**
+---
 
-    Participated in several projects mainly migrating some legacy monolith systems to new microservices that handled millions of orders per day. These microservices involved REST API design, consuming and publishing from/to event streams, handling asynchronous processes and writing to distributed databases.
+### THOUGHTWORKS | March 2020 – August 2023
+**Full-Stack Software Engineer Consultant**
 
-    Built the domain service that enabled product subscriptions to be created and managed.
+Worked across multiple projects helping clients adopt best practices including Agile, Test-Driven Development (TDD), trunk-based development, and a strong feedback culture.
 
-    Implemented a loyalty program for users creating new functionalities and expanding to new markets in Europe. 
+**German Online Retailer & E-commerce**
+* Migrated legacy monolith systems to new microservices handling millions of daily orders, involving REST API design and event-stream processing.
+* Built the domain service for product subscriptions and expanded the loyalty program to new European markets.
+* Developed a fraud-detection solution that allowed screeners to efficiently browse data and identify fraudulent orders.
+* Created a React application for administrators to configure global payment methods via a custom API.
+* *Technologies: Java, Kotlin, JUnit5, PostgreSQL, Spring Boot, AWS, Kubernetes, Docker, Typescript, React, Jest.*
 
-    Contributed to a solution that allowed fraud screeners to easily find and browse all the information needed to identify and mark fraudulent orders.
+**German Sustainability Consultancy**
+* Built a Single Page Application (SPA) with a headless CMS (Storyblok), allowing non-technical stakeholders to manage content independently.
+* Developed a custom tool for designing and exporting sustainability certification labels in multiple formats.
+* *Technologies: Typescript, React, Material UI, Playwright, Storyblok, Datadog, Matomo, Github Actions, Terraform.*
 
-    Created a small application in React to allow administrators to configure payment methods per country and serve this through an API.
+**Digital Marketplace**
+* Decoupled back-office systems from a monolith into microservices, implementing JWT authentication for secure ecosystem connectivity.
+* Implemented a feature using **AI-generated suggestions** to help users write inclusive and unbiased advertisement descriptions.
+* *Technologies: Javascript, React, SUI components, Mocha, Chai, Sinon, Cypress.*
 
-    *Technologies: Java, Kotlin, JUnit5, Lombok, PostgreSQL, Spring Boot, AWS, Kubernetes, Docker, Typescript, React, React Testing Library, Jest.*
-
-- **German sustainability consultancy**
-
-    Worked with a cross functional team to build a Single Page Application, incorporating a content management system which allowed non-technical people to have the flexibility to modify and update the content of the application, and integrating different technologies for analytics, observability, marketing and accessibility.
-
-    Built a SPA tool that allowed users to customize the design of their certification label and then export said label in multiple supported formats. 
-
-    *Technologies: Typescript, React, Material UI, React Testing Library, Jest, AWS S3, AWS CloudFront, Playwright, Storyblok, Datadog, Matomo, Github Actions, MS Dynamics, Terraform.*
-
-- **Digital marketplace**
-
-    Helped decoupling the backoffice from the monolith into a microservice. Added JWT authentication to enable the new microservice to connect with the rest of the ecosystem. 
-
-    Implemented a feature that used AI generated suggestions to help users write the description of their advertisements in an inclusive and unbiased way. 
-
-    *Technologies: Javascript, React, SUI components, Mocha, Chai, Sinon, Cypress*
-
-### THOUGHTWORKS January 2025 - Now
-After a gap year I resumed my career in Thoughtworks where I'm still currently working. 
-- **Airline Payments platform**
-
-    Worked as a Senior Consultant building a high-scale payment orchestration system within a new booking platform for a major airline. Contributed to a comprehensive payment solution covering the full transaction lifecycle, including 3DS authentication, authorisation, capture, refund and reconciliation functionalities.
-
-    Implemented multi-currency transactions, enabling combined payments using credit/debit cards and loyalty currency, and supported integration with third-party payment methods such as Apple Pay. The system integrates with PCI Proxy and Cybersource, leveraging a cloud-native architecture to ensure secure and reliable global transactions.
-
-    *Techonolgies: Typescript, React, Kotlin, Spring Boot, AWS (ECS, S3, Lambda, AuroraDB), Terraform, Kong API Gateway, Datadog, GitHub Actions, Pact.io*
-
-## EDUCATION
-
-**Bachelor’s degree in Industrial Technologies Engineering** - Barcelona School of Industrial Engineering (ETSEIB), UPC<br>
-*Honors in IT 1*
-
-**Master in Innovation and Research in Informatics:  Computer Graphics and Virtual Reality** -  Barcelona School of Informatics (FIB), UPC.<br>
-*Ongoing*
+---
 
 ## TECHNICAL SKILLS
 
-**Languages, frameworks & libraries**
-- Java, Kotlin, Spring Boot, JUnit
-- Typescript, Javascript, React, React Testing Library, Vite+vitest, Jest
-- Html5, CSS3
+* **Languages & Frameworks:** Java, Kotlin, Spring Boot, JUnit, Typescript, Javascript, React, React Testing Library, Vite, Jest, HTML5, CSS3.
+* **Cloud & Tools:** AWS (ECS, S3, Lambda, Aurora), Docker, Kubernetes, PostgreSQL, MongoDB, Terraform, GitHub Actions.
+* **AI Productivity:** Advanced use of AI coding assistants for rapid prototyping, refactoring, and automated test generation.
+* **Graphics (Non-professional):** Rust, C++, OpenGL, WebGL, WebGPU, Python (Numpy, Pandas).
 
-**Other technologies**
-- Docker
-- PostgreSQL
-- MongoDB
+---
 
-**I also have non-professional hands-on experience with**
-- Rust
-- C++
-- OpenGl, WebGl and WebGpu
-- Python, Numpy, Pandas
+## EDUCATION
+
+**Master in Innovation and Research in Informatics: Computer Graphics and Virtual Reality** Barcelona School of Informatics (FIB), UPC — *Ongoing*
+
+**Bachelor’s degree in Industrial Technologies Engineering** Barcelona School of Industrial Engineering (ETSEIB), UPC — *Honors in IT 1*
