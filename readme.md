@@ -57,7 +57,7 @@ Worked across multiple projects helping clients adopt best practices including A
 * **Languages & Frameworks:** Java, Kotlin, Spring Boot, JUnit, Typescript, Javascript, React, React Testing Library, Vite, Jest, HTML5, CSS3.
 * **Cloud & Tools:** AWS (ECS, S3, Lambda, Aurora), Docker, Kubernetes, PostgreSQL, MongoDB, Terraform, GitHub Actions.
 * **AI Productivity:** Advanced use of AI coding assistants for rapid prototyping, refactoring, and automated test generation.
-* **Graphics (Non-professional):** Rust, C++, OpenGL, WebGL, WebGPU, Python (Numpy, Pandas).
+* **Graphics & Non-professional:** Rust, C++, OpenGL, WebGL, WebGPU, Python (Numpy, Pandas).
 
 ---
 
